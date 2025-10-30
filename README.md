@@ -9,7 +9,7 @@
 <h2>⚔️ Gameplay Overview – Action & Shooting Mechanics</h2>
 <p>The gameplay of <strong>Undead Corridor</strong> is simple to learn yet brutally challenging to master. You control your survivor using <strong>A / D</strong> or <strong>arrow keys</strong> to move, <strong>left-click</strong> to shoot, and <strong>Spacebar</strong> to kick zombies away when they get too close.</p>
 
-<h3>🎯 Scoring System – Points & Rewards</h3>
+<h3>🎯 Scoring System – Undead Corridor Points & Rewards</h3>
 <ul>
   <li><strong>Headshot:</strong> +$10 and 5 points</li>
   <li><strong>Body shot:</strong> +$5 and 2.5 points</li>
@@ -18,7 +18,7 @@
 
 <p>You can use the money to purchase new weapons or buy extra lives (each life costs $2500). When you die, your purchased weapons are lost, but your earned money remains — allowing you to prepare better for the next run.</p>
 
-<h2>💀 Types Of Zombies – Enemies & Challenges</h2>
+<h2>💀 Types Of Zombies – Undead Corridor Enemies & Challenges</h2>
 <ul>
   <li><strong>Common zombies:</strong> Weak and unarmored; two headshots will take them down.</li>
   <li><strong>Green-uniform zombies:</strong> Equipped with helmets and body armor. Shoot their legs first to weaken them before finishing the kill.</li>
