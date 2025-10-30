@@ -1,4 +1,4 @@
-<p>In a world overrun by the undead, even the smallest mistake can cost your life. <strong><a href="https://undeadcorridor.io">undead corridor</a></strong> is an HTML5 survival shooting game that throws you straight into a nightmare of bloodthirsty zombies and narrow escape routes. Every bullet, every move, and every breath counts as you fight for survival through endless corridors of horror.</p>
+<p>In a world overrun by the undead, even the smallest mistake can cost your life. <strong>Undead Corridor</strong> is an HTML5 survival shooting game that throws you straight into a nightmare of bloodthirsty zombies and narrow escape routes. Every bullet, every move, and every breath counts as you fight for survival through endless corridors of horror.</p>
 
 <p><strong>No downloads. No restrictions. You can play Undead Corridor instantly online at <a href="https://undeadcorridor.io/" target="_blank" rel="noopener">https://undeadcorridor.io/</a>.</strong></p>
 
@@ -26,7 +26,7 @@
 </ul>
 <p>Some zombies are even smart enough to cover their heads with their hands, forcing you to adapt and aim for other weak points.</p>
 
-<h2>🧩 <a href="https://undeadcorridor.io/" target="_blank" rel="noopener">Game Modes In Undead Corridor</a> – Survival Levels & Strategies</h2>
+<h2>🧩Game Modes In <a href="https://undeadcorridor.io/" target="_blank" rel="noopener">Undead Corridor</a> – Survival Levels & Strategies</h2>
 <table>
   <thead>
     <tr>
